@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Env:   
+[![Windows10-preview](https://img.shields.io/badge/Windows-10preview-blue?style=flat-square&logo=windows&logoColor=blue)](https://insider.windows.com/)  
+![VSCode](https://img.shields.io/badge/IDE-VSC-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=blue)
+![VS](https://img.shields.io/badge/IDE-VS2019-purple?style=flat-square&logo=Visual-Studio&logoColor=violet)
+![IDEA](https://img.shields.io/badge/IDE-IDEA-black?style=flat-square&logo=JetBrains&logoColor=black)
+
+Lang:  
+![Java](https://img.shields.io/badge/Java--red?style=flat-square&logo=Java&logoColor=red)  
+![C](https://img.shields.io/badge/C--blue?style=flat-square&logo=C&logoColor=blue)  
+![JS](https://img.shields.io/badge/JavaScript--yellow?style=flat-square&logo=JavaScript&logoColor=yellow)  
+
+and wait...
 <!--
 **sky5454/sky5454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
