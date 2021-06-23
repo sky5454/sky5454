@@ -29,3 +29,15 @@ Here are some ideas to get you started:
 ## &#x1f4c8; My GitHub Stats
 
 [![sky5454's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky5454&show_icons=true)](https://github.com/sky5454/)
+
+
+## &#x1f4dd; Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky5454&layout=compact)](https://github.com/sky5454/)
+
+
+
+## &#x1f92b; Github Visitors
+
+
+[![Top Langs](https://profile-counter.glitch.me/sky5454/count.svg)](https://github.com/sky5454/)
