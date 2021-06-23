@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 ## &#x1f4c8; My GitHub Stats
 
-[![sky5454's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky5454&show_icons=true)](https://github.com/sky5454/)
+[![sky5454's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky5454&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/sky5454/)
 
 
 <!-- ## &#x1f4dd; Most Used Languages -->
