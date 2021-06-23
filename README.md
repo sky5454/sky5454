@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## &#x1f4c8; My GitHub Stats
+
+[![sky5454's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky5454&show_icons=true)](https://github.com/sky5454/)
