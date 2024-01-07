@@ -1,15 +1,30 @@
 ### Hi there 👋
 
-Env:   
+## Env
 [![Windows10-preview](https://img.shields.io/badge/Windows-10preview-blue?style=flat-square&logo=windows&logoColor=blue)](https://insider.windows.com/)  
-![VSCode](https://img.shields.io/badge/IDE-VSC-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=blue)
-![VS](https://img.shields.io/badge/IDE-VS2019-purple?style=flat-square&logo=Visual-Studio&logoColor=violet)
-![IDEA](https://img.shields.io/badge/IDE-IDEA-black?style=flat-square&logo=JetBrains&logoColor=black)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-Lang:  
-![Java](https://img.shields.io/badge/Java--red?style=flat-square&logo=Java&logoColor=red)  
-![C](https://img.shields.io/badge/C--blue?style=flat-square&logo=C&logoColor=blue)  
-![JS](https://img.shields.io/badge/JavaScript--yellow?style=flat-square&logo=JavaScript&logoColor=yellow)  
+
+## IDE
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## Lang
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+![Vite/VUE3](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white)
+
 
 and wait...
 <!--
